@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="
+        http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <!-- bean definitions here -->
+    <bean class = "com.springcore.collectionInjection.Student" name ="student1">
+        <property name="rollNo" value="003"/>
+        <property name="name" value="Aanchal"/>
+        <property name="skills">
+            <set>
+                <value>DSA</value>
+                <value>Java(core+Advanced)</value>
+                <value>SpringBoot</value>
+                <value>MYSQL</value>
+            </set>
+        </property>
+        <property name="courses">
+            <map>
+                <entry key="Java" value="01"/>
+                <entry key="Big data" value="02"/>
+                <entry key="Agile" value="03"/>
+                <entry key="DBMS" value="04"/>
+            </map>
+        </property>
+    </bean>
+    <bean class = "com.springcore.collectionInjection.Student" name ="student2">
+        <property name="rollNo" value="004"/>
+        <property name="name" value="Aniket"/>
+        <property name="skills">
+            <set>
+                <value>DSA</value>
+                <value>Python</value>
+                <value>Machine Learning</value>
+                <value>MYSQL</value>
+            </set>
+        </property>
+        <property name="courses">
+            <map>
+                <entry key="Deep learning" value="01"/>
+                <entry key="Data analytics" value="02"/>
+                <entry key="Agile" value="03"/>
+                <entry key="Sql" value="04"/>
+            </map>
+        </property>
+    </bean>
+
+</beans>
