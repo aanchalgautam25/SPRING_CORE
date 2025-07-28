@@ -5,15 +5,39 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5664c539-5dea-455a-8b90-169d44793402" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/springcore/beanlifecycleinterfaces/LifeCycleUsingInterfaces.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/springcore/beanlifecycleinterfaces/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/springcore/beanlifecycleinterfaces/config.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/springcore/beanConfig/BeanMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/springcore/beanConfig/BeanMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/springcore/beanConfig/MyFirstBean.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/springcore/beanConfig/MyFirstBean.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/springcore/beanlifecycle/LifeCycleBean.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/springcore/beanlifecycle/LifeCycleBean.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/springcore/beanlifecycle/LifeCycleMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/springcore/beanlifecycle/LifeCycleMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/springcore/beanlifecycleinterfaces/LifeCycleUsingInterfaces.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/springcore/beanlifecycleinterfaces/LifeCycleUsingInterfaces.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/springcore/beanlifecycleinterfaces/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/springcore/beanlifecycleinterfaces/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/springcore/collectionInjection/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/springcore/collectionInjection/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/springcore/collectionInjection/StudentMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/springcore/collectionInjection/StudentMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/springcore/constructorInjection/Address.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/springcore/constructorInjection/Address.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/springcore/constructorInjection/ConstructorInjectionMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/springcore/constructorInjection/ConstructorInjectionMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/springcore/constructorInjection/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/springcore/constructorInjection/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/springcore/loosecoupling/EmailNotification.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/springcore/loosecoupling/EmailNotification.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/springcore/loosecoupling/LooseCouplingMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/springcore/loosecoupling/LooseCouplingMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/springcore/loosecoupling/NotificationService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/springcore/loosecoupling/NotificationService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/springcore/loosecoupling/PushNotification.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/springcore/loosecoupling/PushNotification.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/springcore/loosecoupling/SMSNotification.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/springcore/loosecoupling/SMSNotification.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/springcore/loosecoupling/UserService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/springcore/loosecoupling/UserService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/springcore/setterinjection/Address.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/springcore/setterinjection/Address.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/springcore/setterinjection/SetterMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/springcore/setterinjection/SetterMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/springcore/setterinjection/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/springcore/setterinjection/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/springcore/tightcoupling/NotificationService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/springcore/tightcoupling/NotificationService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/springcore/tightcoupling/TightCouplingMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/springcore/tightcoupling/TightCouplingMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/springcore/tightcoupling/UserService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/springcore/tightcoupling/UserService.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -36,35 +60,37 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.BeanMain.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ConstructorInjectionMain.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LifeCycleMain.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LooseCouplingMain.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SetterMain.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StudentMain.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TightCouplingMain.executor&quot;: &quot;Run&quot;,
-    &quot;Application.com.springcore.loosecoupling.LooseCouplingMain.executor&quot;: &quot;Run&quot;,
-    &quot;Application.com.springcore.tightcoupling.TightCouplingMain.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/ASUS/Desktop/Intellij-projects/SpringCore/src/main/java/com/springcore/beanlifecycle&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/ASUS/Desktop/Intellij-projects/SpringCore/src/main/java/org/example/Main.java&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.BeanMain.executor": "Run",
+    "Application.ConstructorInjectionMain.executor": "Run",
+    "Application.LifeCycleMain.executor": "Run",
+    "Application.LooseCouplingMain.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.SetterMain.executor": "Run",
+    "Application.StudentMain.executor": "Run",
+    "Application.TightCouplingMain.executor": "Run",
+    "Application.com.springcore.loosecoupling.LooseCouplingMain.executor": "Run",
+    "Application.com.springcore.tightcoupling.TightCouplingMain.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/ASUS/Desktop/Intellij-projects/SpringCore/src/main/java/com/springcore/beanlifecycleinterfaces",
+    "onboarding.tips.debug.path": "C:/Users/ASUS/Desktop/Intellij-projects/SpringCore/src/main/java/org/example/Main.java",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "configurable.group.editor"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ASUS\Desktop\Intellij-projects\SpringCore\src\main\java\com\springcore\beanlifecycleinterfaces" />
       <recent name="C:\Users\ASUS\Desktop\Intellij-projects\SpringCore\src\main\java\com\springcore\beanlifecycle" />
       <recent name="C:\Users\ASUS\Desktop\Intellij-projects\SpringCore\src\main\java\com\springcore\setterInjection" />
       <recent name="C:\Users\ASUS\Desktop\Intellij-projects\SpringCore\src\main\java\com\springcore\constructorInjection" />
       <recent name="C:\Users\ASUS\Desktop\Intellij-projects\SpringCore\src\main\java\com\springcore\CollectionInjection" />
-      <recent name="C:\Users\ASUS\Desktop\Intellij-projects\SpringCore\src\main\resources" />
     </key>
   </component>
   <component name="RunManager" selected="Application.Main">
@@ -166,11 +192,6 @@
           <url>file://$PROJECT_DIR$/src/main/java/com/LooseCoupling/NotificationService.java</url>
           <line>4</line>
           <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/springcore/constructorInjection/ConstructorInjectionMain.java</url>
-          <line>7</line>
-          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
