@@ -6,30 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="5664c539-5dea-455a-8b90-169d44793402" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/springcore/beanConfig/BeanMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/springcore/beanConfig/BeanMain.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/springcore/beanConfig/MyFirstBean.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/springcore/beanConfig/MyFirstBean.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/springcore/beanlifecycle/LifeCycleBean.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/springcore/beanlifecycle/LifeCycleBean.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/springcore/beanlifecycle/LifeCycleMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/springcore/beanlifecycle/LifeCycleMain.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/springcore/beanlifecycleinterfaces/LifeCycleUsingInterfaces.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/springcore/beanlifecycleinterfaces/LifeCycleUsingInterfaces.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/springcore/beanlifecycleinterfaces/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/springcore/beanlifecycleinterfaces/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/springcore/collectionInjection/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/springcore/collectionInjection/Student.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/springcore/collectionInjection/StudentMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/springcore/collectionInjection/StudentMain.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/springcore/constructorInjection/Address.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/springcore/constructorInjection/Address.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/springcore/constructorInjection/ConstructorInjectionMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/springcore/constructorInjection/ConstructorInjectionMain.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/springcore/constructorInjection/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/springcore/constructorInjection/Student.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/springcore/loosecoupling/EmailNotification.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/springcore/loosecoupling/EmailNotification.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/springcore/loosecoupling/LooseCouplingMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/springcore/loosecoupling/LooseCouplingMain.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/springcore/loosecoupling/NotificationService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/springcore/loosecoupling/NotificationService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/springcore/loosecoupling/PushNotification.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/springcore/loosecoupling/PushNotification.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/springcore/loosecoupling/SMSNotification.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/springcore/loosecoupling/SMSNotification.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/springcore/loosecoupling/UserService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/springcore/loosecoupling/UserService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/springcore/setterinjection/Address.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/springcore/setterinjection/Address.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/springcore/setterinjection/SetterMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/springcore/setterinjection/SetterMain.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/springcore/setterinjection/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/springcore/setterinjection/Student.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/springcore/tightcoupling/NotificationService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/springcore/tightcoupling/NotificationService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/springcore/tightcoupling/TightCouplingMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/springcore/tightcoupling/TightCouplingMain.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/springcore/tightcoupling/UserService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/springcore/tightcoupling/UserService.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,6 +45,7 @@
     "Application.Main.executor": "Run",
     "Application.SetterMain.executor": "Run",
     "Application.StudentMain.executor": "Run",
+    "Application.Test.executor": "Run",
     "Application.TightCouplingMain.executor": "Run",
     "Application.com.springcore.loosecoupling.LooseCouplingMain.executor": "Run",
     "Application.com.springcore.tightcoupling.TightCouplingMain.executor": "Run",
@@ -93,7 +70,7 @@
       <recent name="C:\Users\ASUS\Desktop\Intellij-projects\SpringCore\src\main\java\com\springcore\CollectionInjection" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.Test">
     <configuration name="ConstructorInjectionMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.springcore.constructorInjection.ConstructorInjectionMain" />
       <module name="SpringCore" />
@@ -146,12 +123,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StudentMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.springcore.collectionInjection.StudentMain" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.springcore.annotationByName.Test" />
       <module name="SpringCore" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.springcore.collectionInjection.*" />
+          <option name="PATTERN" value="com.springcore.annotationByName.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -161,11 +138,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.LifeCycleMain" />
         <item itemvalue="Application.SetterMain" />
         <item itemvalue="Application.ConstructorInjectionMain" />
-        <item itemvalue="Application.StudentMain" />
       </list>
     </recent_temporary>
   </component>
